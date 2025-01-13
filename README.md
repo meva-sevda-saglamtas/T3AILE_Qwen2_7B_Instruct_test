@@ -1,6 +1,3 @@
-
-Bu repository için README kısmında, yaptığınız çalışmaları ve amacınızı açıklayan bir metin olmalıdır. Aşağıda bir örnek bulabilirsiniz:
-
 T3 AI'LE Qwen2-7B-Instruct Model Test
 
 This repository contains the testing results and evaluation of the Qwen2-7B-Instruct model, part of the T3 AI'LE platform project. The tests were performed to assess the performance of the model on various prompts and to understand how well it handles different AI tasks.
